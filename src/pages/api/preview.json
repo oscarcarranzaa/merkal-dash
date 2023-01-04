@@ -1,0 +1,927 @@
+
+[{
+  "id": "Gsh2h",
+  "name": "Samsung S20 Plus - Protector Fuerte Serie Hero Stand",
+  "price": {
+    "sale": 269,
+    "regular": 399
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 33,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://761890.smushcdn.com/1365735/wp-content/uploads/2022/09/apple-watch-banda-milanesa.jpg?lossy=1&strip=1&webp=1",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://761890.smushcdn.com/1365735/wp-content/uploads/2022/09/apple-watch-banda-milanesa.jpg?lossy=1&strip=1&webp=1",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://761890.smushcdn.com/1365735/wp-content/uploads/2022/09/apple-watch-banda-milanesa.jpg?lossy=1&strip=1&webp=1",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://761890.smushcdn.com/1365735/wp-content/uploads/2022/09/apple-watch-banda-milanesa.jpg?lossy=1&strip=1&webp=1",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://761890.smushcdn.com/1365735/wp-content/uploads/2022/09/apple-watch-banda-milanesa.jpg?lossy=1&strip=1&webp=1",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://761890.smushcdn.com/1365735/wp-content/uploads/2022/09/apple-watch-banda-milanesa.jpg?lossy=1&strip=1&webp=1",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://761890.smushcdn.com/1365735/wp-content/uploads/2022/09/apple-watch-banda-milanesa.jpg?lossy=1&strip=1&webp=1",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+},
+{
+  "id": "Gervebt",
+  "name": "Samsung A12 – Protector silicona mas soporte de anillo serie gravedad",
+  "price": {
+    "sale": 239,
+    "regular": 349
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 32,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01570.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01570.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01570.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01570.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01570.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01570.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01570.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+}, {
+  "id": "Gerventyn",
+  "name": "Smart Watch K9 Kids 4G – Reloj inteligente para niños con localización y vídeo llamadas",
+  "price": {
+    "sale": 229,
+    "regular": 279
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 28,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/smart-watch-k9-kids-4g-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/smart-watch-k9-kids-4g-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/smart-watch-k9-kids-4g-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/smart-watch-k9-kids-4g-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/smart-watch-k9-kids-4g-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/smart-watch-k9-kids-4g-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/smart-watch-k9-kids-4g-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+}, {
+  "id": "Gervexcv",
+  "name": "Xiaomi Poco X4 Pro – Protector de goma, suave aprueba de golpes, serie maverick",
+  "price": {
+    "sale": 1799,
+    "regular": 2499
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 28,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Maverick-poco-x4-pro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Maverick-poco-x4-pro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Maverick-poco-x4-pro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Maverick-poco-x4-pro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Maverick-poco-x4-pro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Maverick-poco-x4-pro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Maverick-poco-x4-pro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+},{
+  "id": "Gervuy",
+  "name": "Smart Watch K9 Kids 4G – Reloj inteligente para niños con localización y vídeo llamadas",
+  "price": {
+    "sale": 1799,
+    "regular": 2499
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 25,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/ggwts22p.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/ggwts22p.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/ggwts22p.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/ggwts22p.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/ggwts22p.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/ggwts22p.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/ggwts22p.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+},{
+  "id": "Gererq",
+  "name": "Smart Watch COLMI I30 – pantalla de 1,32 pulgadas, resistente al agua y compatible con Android IOS",
+  "price": {
+    "sale": 2399,
+    "regular": 3299
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 27,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Hc3f55a3.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Hc3f55a3.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Hc3f55a3.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Hc3f55a3.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Hc3f55a3.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Hc3f55a3.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/Hc3f55a3.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+},{
+  "id": "Gervewawdefwe",
+  "name": "Samsung A13 – Protector de pantalla Vidrio Templado 9H",
+  "price": {
+    "sale": 999,
+    "regular": 1399
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 29,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/waterproof-iphone-13-negro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/waterproof-iphone-13-negro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/waterproof-iphone-13-negro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/waterproof-iphone-13-negro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/waterproof-iphone-13-negro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/waterproof-iphone-13-negro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/waterproof-iphone-13-negro.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+},{
+  "id": "Gervewefwe",
+  "name": "iPhone 13 – Protector impermeable con protector de pantalla integrado, a prueba de polvo, a prueba de golpes",
+  "price": {
+    "sale": 999,
+    "regular": 1399
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 29,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2020/10/71y2UkZOnAL._SL1500_.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2020/10/71y2UkZOnAL._SL1500_.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2020/10/71y2UkZOnAL._SL1500_.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2020/10/71y2UkZOnAL._SL1500_.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2020/10/71y2UkZOnAL._SL1500_.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2020/10/71y2UkZOnAL._SL1500_.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2020/10/71y2UkZOnAL._SL1500_.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+}, {
+  "id": "Gervewwedefwe",
+  "name": "Mcdodo – adaptador USB tipo C a Jack 3.5",
+  "price": {
+    "sale": 399,
+    "regular": 499
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 20,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/adaptador-typo-c-a-jack-mcdodo-2-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/adaptador-typo-c-a-jack-mcdodo-2-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/adaptador-typo-c-a-jack-mcdodo-2-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/adaptador-typo-c-a-jack-mcdodo-2-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/adaptador-typo-c-a-jack-mcdodo-2-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/adaptador-typo-c-a-jack-mcdodo-2-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/adaptador-typo-c-a-jack-mcdodo-2-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+},{
+  "id": "Gervewef4e",
+  "name": "Samsung A13 – Protector fuerte soporte giratorio mas cubierta de cámara, serie gladiado",
+  "price": {
+    "sale": 239,
+    "regular": 349
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 32,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01521.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01521.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01521.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01521.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01521.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01521.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/09/DSC01521.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+},{
+  "id": "Gerv1ewe",
+  "name": "iPhone 13 – Protector impermeable con protector de pantalla integrado, a prueba de polvo, a prueba de golpes",
+  "price": {
+    "sale": 999,
+    "regular": 1399
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 29,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/07/Had87f5-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/07/Had87f5-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/07/Had87f5-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/07/Had87f5-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/07/Had87f5-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/07/Had87f5-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/07/Had87f5-1.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+}, {
+  "id": "Gerve00fwe",
+  "name": "Samsung S22 Ultra – Estuche Samsung Clear View cubierta abatible Burgundy",
+  "price": {
+    "sale": 1499,
+    "regular": 1799
+  },
+  "discount": {
+    "amount": 140,
+    "porcent": 17,
+    "promoid": 983659790
+  },
+  "currency": "HNL",
+  "imageSizes": {
+    "full": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/clearViewS22Bur.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size75": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/clearViewS22Bur.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size200": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/clearViewS22Bur.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size360": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/clearViewS22Bur.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size540": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/clearViewS22Bur.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size720": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/clearViewS22Bur.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    },
+    "size1080": {
+      "src": "https://accmovilhn.com/wp-content/uploads/2022/06/clearViewS22Bur.jpg",
+      "width": 1920,
+      "height": 1440,
+      "size": 199382,
+      "format": "jpeg"
+    }
+  },
+  "saleStatus": "AVAILABLE",
+  "productType": {
+    "name": "Funda",
+    "slug": "fundas"
+  },
+  "mark": {
+    "name": "Samsung",
+    "logo": "/samsung.png"
+  },
+  "url": "https://accmovil.com",
+  "slug": "cover-s20-plus",
+  "maxShop": 3,
+  "new": false
+}]

@@ -1,0 +1,671 @@
+[
+  {
+    "id":1,
+    "image":null,
+    "title":"Ofertas Destacadas",
+    "subtitle":"Ofertas Destacadas",
+    "background":null,
+    "height":390,
+    "products":[
+      {
+        "id":7971,
+        "sku":"15-ED1014LA",
+        "model":"3S9D4LA",
+        "materialGroup":"JT03L104",
+        "name":"Laptop HP Envy X360 15\"/ Intel Core i5/ 2 en 1/ 12GB RAM/ 512GB SSD + 32GB Intel Optane/ Negra",
+        "price":{
+          "sale":29995.000004999998,
+          "regular":33995.00004
+        },
+        "discount":{
+          "amount":3478.260900000001,
+          "percentage":12,
+          "promoid":"100000010418"
+        },
+        "currency":"HNL",
+        "mainImage":{
+          "full":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/9ca6eba5752930cf291f19fe7a120d82.webp",
+          "size75":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/9ca6eba5752930cf291f19fe7a120d82-75x75.webp",
+          "size150":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/9ca6eba5752930cf291f19fe7a120d82-150x150.webp",
+          "size350":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/9ca6eba5752930cf291f19fe7a120d82-350x350.webp",
+          "size500":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/9ca6eba5752930cf291f19fe7a120d82-500x500.webp"
+        },
+        "saleStatus":"AVAILABLE",
+        "categories":[
+          {
+            "id":30,
+            "slug":"computadoras-portatiles",
+            "name":"Laptops",
+            "description":{
+              "category_id":30,
+              "language_id":1,
+              "name":"Laptops",
+              "description":"<h1 class=\"title\">Laptops </h1><p class=\"mb-2\">Es más fácil encontrar una computadora todo terreno con la ayuda de un Laptop Master. En Jetstereo encontrarás <a href=\"/asesores-expertos\">asesoría</a> de este tipo para que encuentres todo lo que necesitas en una laptop o desktop. ¿Estás listo para trabajar a toda velocidad? Disfruta de los mejores gráficos al mejor precio sólo aquí.\r\n</p><h2 class=\"font-large\">Expertos en Computadoras</h2><p class=\"mb-1\">En <a href=\"/pages/quienes-somos\">Jetstereo somos expertos</a> en computadoras. Contamos con laptops para todo lo que necesites ¡Garantizado!<br>\r\n</p><p class=\"mb-1\">No te preocupes si es para diseñar, trabajar, estudiar o simplemente para navegar en redes: tenemos una laptop perfecta para ti.\r\n</p><p class=\"mb-2\">Nuestros asesores podrán ayudarte a encontrar la que vaya acorde con lo que buscas.<br>\r\n</p>",
+              "meta_title":"Computadoras para todos | Jetstereo",
+              "meta_description":"Jetstereo tiene las mejores computadoras a precios increíbles ¡Compruébalo en un clic! Visita nuestro catálogo y compra ahora.",
+              "meta_keyword":"computadoras portatiles, laptops, comprar laptop en honduras,  laptop dell, dell inspiron, laptop hp"
+            },
+            "coverImage":null,
+            "childrenType":"PRODUCT",
+            "position":1,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/laptops.png"
+          }
+        ],
+        "url":"https://www.jetstereo.com/product/envy-x360-i5-1135g7-12gb-512gbssd-32gb-15-ed1014la",
+        "brand":{
+          "id":9,
+          "name":"HP",
+          "logo":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/brands/LOGOS-HP.png",
+          "slug":"hp",
+          "description":"HP"
+        },
+        "slug":"envy-x360-i5-1135g7-12gb-512gbssd-32gb-15-ed1014la",
+        "mainCategory":{
+          "id":"30",
+          "name":"Laptops",
+          "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/laptops.png",
+          "slug":"computadoras-portatiles",
+          "store_pickup":1
+        },
+        "ratings":{
+          "average":0,
+          "reviews":0
+        },
+        "publishedAt":"2021-06-18",
+        "stock":31.027027027027028,
+        "coupon":null,
+        "variants":[
+          
+        ],
+        "new":false,
+        "availableForPickup":true,
+        "physical":1
+      },
+      {
+        "id":7099,
+        "sku":"SM-R180NZNALTA",
+        "model":"SM-R180NZKAXAR",
+        "materialGroup":"",
+        "name":"Audífonos Samsung/ Galaxy Buds Live/ Inalámbrico/ Con Cancelación de Sonido/ Bronce",
+        "price":{
+          "sale":3595.0000499999996,
+          "regular":4454.999949999999
+        },
+        "discount":{
+          "amount":747.826,
+          "percentage":19,
+          "promoid":"100000003533"
+        },
+        "currency":"HNL",
+        "mainImage":{
+          "full":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/02caa30e109bd189c82d64c17c32ca66.webp",
+          "size75":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/02caa30e109bd189c82d64c17c32ca66-75x75.webp",
+          "size150":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/02caa30e109bd189c82d64c17c32ca66-150x150.webp",
+          "size350":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/02caa30e109bd189c82d64c17c32ca66-350x350.webp",
+          "size500":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/02caa30e109bd189c82d64c17c32ca66-500x500.webp"
+        },
+        "saleStatus":"AVAILABLE",
+        "categories":[
+          {
+            "id":132,
+            "slug":"audifonos",
+            "name":"Audífonos",
+            "description":{
+              "category_id":132,
+              "language_id":1,
+              "name":"Audífonos",
+              "description":"<div>\r\n\t<h1 class=\"title\">Audífonos</h1>\r\n\t<p class=\"mb-1\">¿Te gusta escuchar música en todos lados, todo el tiempo? ¿Eres de las personas que disfrutan de un buen podcast mientras realizan una rutina de ejercicio o durante el trabajo? ¿Necesitas un manos libres para responder llamadas mientras conduces? Entonces estás en el lugar correcto.\r\n\t</p>\r\n\t<p class=\"mb-2\">En <a href=\"/pages/quienes-somos\">Jetstereo</a> contamos con una amplia gama de audífonos para que tú puedas encontrar aquellos que se ajusten a todas tus actividades ¡Queremos que te sientas cómodo y conectes con tu interior desde cualquier lugar!Contacta con <a href=\"/asesores-expertos\">nuestros asesores</a> expertos para obtener una orientación en tu proceso de elección. Disfruta una experiencia auditiva perfecta con los audífonos de Jetstereo.\r\n\t</p>\r\n\t<h2 class=\"font-large\">Audífonos perfectos para tus actividades</h2>\r\n\t<p class=\"mb-1\">Escuchar tu música favorita, podcasts y jugar es ahora más fácil con audífonos. Sin importar tus preferencias (películas, juegos, música o programas), en Jetstereo encontrarás lo que estás buscando.\r\n\t</p>\r\n\t<p class=\"mb-1\">Desde audífonos gamers para mejorar tu experiencia dentro de tus juegos, hasta over ears si te gusta este estilo. Contamos también con audífonos in ear, on ear, bluetooth y alámbricos, de diferentes marcas, características y precios.\r\n\t</p>\r\n\t<p class=\"mb-1\">Además, si estás buscando noise cancelling para evitar interrupciones o true Wireless para mayor movilidad sin perder conexión ¡También tenemos los mejores para ti!\r\n\t</p>\r\n\t<p class=\"mb-1\"><a href=\"https://www.jetstereo.com/ubicanos\">Visita tu Jetstereo más cercano</a> o compra en un clic. Aprovecha nuestros increíbles precios y los <a href=\"https://www.jetstereo.com/solicitud-de-credito\">créditos</a> que otorgamos para que equipes tu hogar con los mejores equipos.\r\n\t</p>\r\n\t<p class=\"mb-2\">Jetstereo: cuando quieras lo mejor.\r\n\t</p>\r\n</div>",
+              "meta_title":"Los mejores Audífonos | Jetstereo",
+              "meta_description":"Encuentra los mejores audífonos en Jetstereo y disfruta de tus podcast, audios o música favorita. Compra aquí en un clic.",
+              "meta_keyword":"Audífonos"
+            },
+            "coverImage":null,
+            "childrenType":"CATEGORY",
+            "position":1000,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/Audifonos.jpg"
+          },
+          {
+            "id":228,
+            "slug":"in-ear",
+            "name":"In Ear",
+            "description":{
+              "category_id":228,
+              "language_id":1,
+              "name":"In Ear",
+              "description":"In Ear",
+              "meta_title":"In Ear",
+              "meta_description":"In Ear",
+              "meta_keyword":"In Ear"
+            },
+            "coverImage":null,
+            "childrenType":"PRODUCT",
+            "position":0,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/In-ear.jpg"
+          },
+          {
+            "id":234,
+            "slug":"true-wireless",
+            "name":"True Wireless",
+            "description":{
+              "category_id":234,
+              "language_id":1,
+              "name":"True Wireless",
+              "description":"True Wireless",
+              "meta_title":"True Wireless",
+              "meta_description":"True Wireless",
+              "meta_keyword":"True Wireless"
+            },
+            "coverImage":null,
+            "childrenType":"PRODUCT",
+            "position":0,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/True-wireless.jpg"
+          }
+        ],
+        "url":"https://www.jetstereo.com/product/galaxy-buds-live-mystic-bronze-sm-r180nznalta",
+        "brand":{
+          "id":6,
+          "name":"SAMSUNG",
+          "logo":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/brands/LOGOS-SAMSUNG.png",
+          "slug":"samsung",
+          "description":"SAMSUNG"
+        },
+        "slug":"galaxy-buds-live-mystic-bronze-sm-r180nznalta",
+        "mainCategory":{
+          "id":"132",
+          "name":"Audífonos",
+          "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/Audifonos.jpg",
+          "slug":"audifonos",
+          "store_pickup":1
+        },
+        "ratings":{
+          "average":4,
+          "reviews":2
+        },
+        "publishedAt":"2020-11-09",
+        "stock":242,
+        "coupon":null,
+        "variants":[
+          
+        ],
+        "new":false,
+        "availableForPickup":true,
+        "physical":1
+      },
+      {
+        "id":9709,
+        "sku":"RME360FDMRXO",
+        "model":"RME360FDMRXO",
+        "materialGroup":"JT02R402",
+        "name":"Refrigeradora mabe/ Top Mount/ RME360FDMRXO/ 14′/ Home Energy Saver/ Gris",
+        "price":{
+          "sale":13994.999979999999,
+          "regular":17995.000014999998
+        },
+        "discount":{
+          "amount":3478.260900000001,
+          "percentage":22,
+          "promoid":"100000010458"
+        },
+        "currency":"HNL",
+        "mainImage":{
+          "full":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/d80e8e2d8ab6b246c7adb6808d6b2372.webp",
+          "size75":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/d80e8e2d8ab6b246c7adb6808d6b2372-75x75.webp",
+          "size150":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/d80e8e2d8ab6b246c7adb6808d6b2372-150x150.webp",
+          "size350":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/d80e8e2d8ab6b246c7adb6808d6b2372-350x350.webp",
+          "size500":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/d80e8e2d8ab6b246c7adb6808d6b2372-500x500.webp"
+        },
+        "saleStatus":"AVAILABLE",
+        "categories":[
+          {
+            "id":74,
+            "slug":"refrigeradoras",
+            "name":"Refrigeradoras",
+            "description":{
+              "category_id":74,
+              "language_id":1,
+              "name":"Refrigeradoras",
+              "description":"En Jetstereo encontrarás el refrigerador que necesitas para mantener tus alimentos frescos y seguros. Compra al mejor precio.",
+              "meta_title":"En Jetstereo tenemos el refrigerador que buscas con el mejor precio",
+              "meta_description":"En Jetstereo encontrarás el refrigerador que necesitas para mantener tus alimentos frescos y seguros. Compra al mejor precio.",
+              "meta_keyword":"Refrigeradoras"
+            },
+            "coverImage":null,
+            "childrenType":"CATEGORY",
+            "position":1000,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/Refrigeradoras.jpg"
+          },
+          {
+            "id":159,
+            "slug":"refrigeradora-top-mount",
+            "name":"Refrigeradoras  Top Freezer",
+            "description":{
+              "category_id":159,
+              "language_id":1,
+              "name":"Refrigeradoras  Top Freezer",
+              "description":"Estilo de refrigeradora de 2 puertas con Freezer arriba",
+              "meta_title":"Refrigeradora Top Mount",
+              "meta_description":"Refrigeradora Top Mount",
+              "meta_keyword":"Refrigeradora Top Mount"
+            },
+            "coverImage":null,
+            "childrenType":"PRODUCT",
+            "position":1000,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/latin_RT53K6541SL-ED_001_Front_silver paint3-500x500.jpg"
+          }
+        ],
+        "url":"https://www.jetstereo.com/product/refrigeradora-mabe-de-14-color-inox-rme360fdmrxo",
+        "brand":{
+          "id":158,
+          "name":"MABE",
+          "logo":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/manufacturer/logo-mabe.jpg",
+          "slug":"mabe",
+          "description":"<p>Mabe</p>"
+        },
+        "slug":"refrigeradora-mabe-de-14-color-inox-rme360fdmrxo",
+        "mainCategory":{
+          "id":"159",
+          "name":"Refrigeradoras  Top Freezer",
+          "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/latin_RT53K6541SL-ED_001_Front_silver paint3-500x500.jpg",
+          "slug":"refrigeradora-top-mount",
+          "store_pickup":0
+        },
+        "ratings":{
+          "average":0,
+          "reviews":0
+        },
+        "publishedAt":"2022-06-01",
+        "stock":38.62068965517241,
+        "coupon":null,
+        "variants":[
+          
+        ],
+        "new":false,
+        "availableForPickup":false,
+        "physical":1
+      },
+      {
+        "id":9212,
+        "sku":"PFEL03721",
+        "model":"PFEL03721",
+        "materialGroup":"JT16E103",
+        "name":"Elíptica ProForm Hybrid XT",
+        "price":{
+          "sale":15995.000054999999,
+          "regular":19994.999975
+        },
+        "discount":{
+          "amount":3478.2608,
+          "percentage":20,
+          "promoid":"100000009241"
+        },
+        "currency":"HNL",
+        "mainImage":{
+          "full":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/ad7e12ac5fcf29caf0cb195cdb1d88f5.webp",
+          "size75":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/ad7e12ac5fcf29caf0cb195cdb1d88f5-75x75.webp",
+          "size150":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/ad7e12ac5fcf29caf0cb195cdb1d88f5-150x150.webp",
+          "size350":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/ad7e12ac5fcf29caf0cb195cdb1d88f5-350x350.webp",
+          "size500":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/ad7e12ac5fcf29caf0cb195cdb1d88f5-500x500.webp"
+        },
+        "saleStatus":"AVAILABLE",
+        "categories":[
+          {
+            "id":239,
+            "slug":"elipticas",
+            "name":"Elípticas",
+            "description":{
+              "category_id":239,
+              "language_id":1,
+              "name":"Elípticas",
+              "description":"Elipitcas",
+              "meta_title":"Elipitcas",
+              "meta_description":"Elipitcas",
+              "meta_keyword":"Elipitcas"
+            },
+            "coverImage":null,
+            "childrenType":"PRODUCT",
+            "position":0,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/Elipticas.jpg"
+          }
+        ],
+        "url":"https://www.jetstereo.com/product/eliptica-proform-hybrid-xt-pfel03721",
+        "brand":{
+          "id":153,
+          "name":"ProForm",
+          "logo":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/brands/LOGOS-proform.png",
+          "slug":"proform",
+          "description":"<p>ProForm</p>"
+        },
+        "slug":"eliptica-proform-hybrid-xt-pfel03721",
+        "mainCategory":{
+          "id":"239",
+          "name":"Elípticas",
+          "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/Elipticas.jpg",
+          "slug":"elipticas",
+          "store_pickup":0
+        },
+        "ratings":{
+          "average":0,
+          "reviews":0
+        },
+        "publishedAt":"2022-04-29",
+        "stock":290,
+        "coupon":null,
+        "variants":[
+          
+        ],
+        "new":false,
+        "availableForPickup":false,
+        "physical":1
+      },
+      {
+        "id":7736,
+        "sku":"SAMS-A52-BLACK128GB",
+        "model":"SAMS-A52-BLACK128GB",
+        "materialGroup":"JT04C104",
+        "name":"Samsung Galaxy A52/ 6GB RAM/ 128GB/ Awesome Black",
+        "price":{
+          "sale":10495.000049999999,
+          "regular":13494.99999
+        },
+        "discount":{
+          "amount":2608.695600000001,
+          "percentage":22,
+          "promoid":"100000008109"
+        },
+        "currency":"HNL",
+        "mainImage":{
+          "full":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/09e29497aafd59ddb439fabea45e18e9.webp",
+          "size75":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/09e29497aafd59ddb439fabea45e18e9-75x75.webp",
+          "size150":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/09e29497aafd59ddb439fabea45e18e9-150x150.webp",
+          "size350":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/09e29497aafd59ddb439fabea45e18e9-350x350.webp",
+          "size500":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/09e29497aafd59ddb439fabea45e18e9-500x500.webp"
+        },
+        "saleStatus":"AVAILABLE",
+        "categories":[
+          {
+            "id":26,
+            "slug":"smartphones",
+            "name":"Celulares",
+            "description":{
+              "category_id":26,
+              "language_id":1,
+              "name":"Celulares",
+              "description":"<div>\r\n\t<h1 class=\"title\">Celulares</h1>\r\n\t<p class=\"mb-1\">Tu celular ideal está en Jetstereo ¿Quieres encontrarlo? Nuestros <a href=\"/asesores-expertos\">asesores expertos</a> te ayudarán a dar con el equipo que cumpla con todos los requisitos y necesidades de uso y funciones que necesitas.\r\n\t</p>\r\n\t<p class=\"mb-2\">En Jetstereo encuentras el equipo perfecto para ti ¡Al mejor precio!\r\n\t</p>\r\n\t<h2 class=\"font-large\">Tu celular ideal está en Jetstereo</h2>\r\n\t<p class=\"mb-2\">¿Buscas un celular grande o pequeño? Elige entre tamaños de pantalla desde 5.9”, hasta más de 6.4”. También tenemos las marcas favoritas de los usuarios como: Apple, Samsung, Huawei, OPPO, Motorola o Xiaomi.\r\n\t</p>\r\n\t<h2 class=\"font-large\">Compleméntalo con los mejores accesorios</h2>\r\n\t<p class=\"mb-1\">Lleva la experiencia de uso de tu celular a otro nivel. Compra un reloj inteligente, audífonos y bandas para recibir y manejar todas tus notificaciones.\r\n\t</p>\r\n\t<p class=\"mb-1\">Contamos, además, con una extensa <a href=\"category/accesorios-telefonos-moviles\">lista de accesorios</a> coloridos y útiles como: cables y cargadores, carga inalámbrica, memorias microSD, cobertores, cargadores para vehículo, powerbanks, vidrios templados, accesorios para tu Apple, Samsung o Huawei.\r\n\t</p>\r\n\t<p class=\"mb-1\">¿Con qué completarás la experiencia de uso de tu celular?\r\n\t</p>\r\n\t<p class=\"mb-1\"><a href=\"/ubicanos\">Visita tu Jetstereo más cercano</a> o compra en un clic. Aprovecha nuestros increíbles precios y los créditos que otorgamos para que equipes tu hogar con los mejores equipos.\r\n\t</p>\r\n\t<p class=\"mb-2\">Jetstereo: cuando quieras lo mejor.<br>\r\n\t</p>\r\n</div>",
+              "meta_title":"Jetstereo - Encuentro lo último en Celulares 2021",
+              "meta_description":"Encuentra los mejores celulares en Jetstereo y consigue un equipo con grandes funciones a un precio increíble.",
+              "meta_keyword":"Smartphones, celulares, huawei, samsung, lg, motorola, iphone,  celulares en tegucigalpa, precio de celulares, comprar celular, apple, descuento en celulares"
+            },
+            "coverImage":null,
+            "childrenType":"PRODUCT",
+            "position":2,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/IMAGENES-PW-ELS.jpg"
+          }
+        ],
+        "url":"https://www.jetstereo.com/product/samsung-a52-negro-128gb-sams-a52-black128gb",
+        "brand":{
+          "id":6,
+          "name":"SAMSUNG",
+          "logo":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/brands/LOGOS-SAMSUNG.png",
+          "slug":"samsung",
+          "description":"SAMSUNG"
+        },
+        "slug":"samsung-a52-negro-128gb-sams-a52-black128gb",
+        "mainCategory":{
+          "id":"26",
+          "name":"Celulares",
+          "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/IMAGENES-PW-ELS.jpg",
+          "slug":"smartphones",
+          "store_pickup":1
+        },
+        "ratings":{
+          "average":0,
+          "reviews":0
+        },
+        "publishedAt":"2021-04-27",
+        "stock":1851.8846153846152,
+        "coupon":null,
+        "variants":[
+          
+        ],
+        "new":false,
+        "availableForPickup":true,
+        "physical":1
+      },
+      {
+        "id":8451,
+        "sku":"UN43-AU7000",
+        "model":"UN43AU7000PXPA",
+        "materialGroup":"JT01T203",
+        "name":"Smart TV Samsung 43\" UHD 4K/ UN43-AU7000",
+        "price":{
+          "sale":10995.000039999999,
+          "regular":15995.000054999999
+        },
+        "discount":{
+          "amount":4347.8261,
+          "percentage":31,
+          "promoid":"100000010360"
+        },
+        "currency":"HNL",
+        "mainImage":{
+          "full":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/8628b38c0da0d5f3c3164c9b332328a8.webp",
+          "size75":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/8628b38c0da0d5f3c3164c9b332328a8-75x75.webp",
+          "size150":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/8628b38c0da0d5f3c3164c9b332328a8-150x150.webp",
+          "size350":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/8628b38c0da0d5f3c3164c9b332328a8-350x350.webp",
+          "size500":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/8628b38c0da0d5f3c3164c9b332328a8-500x500.webp"
+        },
+        "saleStatus":"AVAILABLE",
+        "categories":[
+          {
+            "id":41,
+            "slug":"tvs",
+            "name":"TVs",
+            "description":{
+              "category_id":41,
+              "language_id":1,
+              "name":"TVs",
+              "description":"<div>\r\n\t<h1 class=\"title\">Catálogo de Televisores | Jetstereo</h1>\r\n\t<p class=\"mb-2\">Encontrar tu televisor ideal es más fácil cuando cuentas con la ayuda de un experto. En Jetstereo encontrarás los mejores televisores ¡Al mejor precio! Contacta con <a href=\"/servicio-tecnico\">nuestros asesores</a> y elige aquel que se ajuste a tus necesidades.\r\n\t</p>\r\n\t<h2 class=\"font-large\">Televisores para todo y para todos</h2>\r\n\t<p class=\"mb-2\">¿Buscas un televisor para sentirte como en el cine? En Jetstereo encuentras televisores perfectos para ver un partido con tus amigos, jugar videojuegos o ver una maratón de tu serie favorita.\r\n¿Quieres, más bien, un televisor que sea un cuadro en tu sala? ¡También lo tenemos! Visita nuestro catálogo y acierta en la elección de tu televisor.\r\n\t</p>\r\n\t<h2 class=\"font-large\">Expertos en Televisores</h2>\r\n\t<p class=\"mb-1\">En Jetstereo somos expertos en televisores ¡Garantizado!\r\n\t</p>\r\n\t<p class=\"mb-1\">Con ayuda de nuestros asesores conocerás qué tamaño y estilo de TV es el que necesitas: si es de <a href=\"/tvs?specs%5B71%5D=2181&perPage=20&currentPage=1\">32”</a>, <a href=\"/tvs?specs%5B71%5D=2182%7C2183%7C2184%7C2190&perPage=20&currentPage=1\">40”, 50”</a> o <a href=\"/tvs?specs%5B71%5D=2186%7C2200%7C2191%7C2185%7C2202%7C2188%7C2199%7C2194%7C2189&perPage=20&currentPage=1\">más de 65”</a>. Lo mejor es que, al contar con la asesoría de un experto, será más sencilla la elección entre, un LED CURVO, OLED, QLED, NanoCell, LED 3D, Crystal UHD, UHD, QNED o Nepo QLED.\r\n\t</p>\r\n\t<p class=\"mb-2\">Aquí también encontrarás una amplia variedad de marcas como: Samsung, LG, Sony, RCA, Aiwa o Hisense.\r\n\t</p>\r\n\t<h2 class=\"font-large\">Encuentra el complemento ideal</h2>\r\n\t<p class=\"mb-1\">Ya que has encontrado tu televisor ideal y buscas ahora tener una mejor experiencia desde la comodidad de tu hogar, ¡Los increíbles precios y <a href=\"/solicitud-de-credito\">créditos de Jetstereo</a> te permiten llevar el complemento ideal!\r\n\t</p>\r\n\t<p class=\"mb-1\">Dale un giro a tu experiencia visual con barras de sonido, teatro en casa, reproductores de video, proyectores, consolas de video o audífonos Bluetooth. Consigue un control remoto, soporte de pared, cable HDMI o cable óptico para hacer de una tarde de televisión un momento para recordar.\r\n\t</p>\r\n\t<p class=\"mb-1\">Y si te preocupa la seguridad y protección de tu televisor, aquí también encontrarás protector de energía y limpiador de TV a un súper precio.\r\n\t</p>\r\n\t<p class=\"mb-2\">Cuando quieras lo mejor, Jetstereo es tu opción.\r\n\t</p>\r\n</div>",
+              "meta_title":"Televisores | Encuentra el tuyo en Jetstereo",
+              "meta_description":"Encuentra en Jetstereo Televisores de última generación al mejor precio. Visita nuestro catálogo en un clic y compra ahora. ",
+              "meta_keyword":"TVs"
+            },
+            "coverImage":null,
+            "childrenType":"PRODUCT",
+            "position":1,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/Banners Web/TVs.jpg"
+          }
+        ],
+        "url":"https://www.jetstereo.com/product/televisor-led-43-un43-au7000",
+        "brand":{
+          "id":6,
+          "name":"SAMSUNG",
+          "logo":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/brands/LOGOS-SAMSUNG.png",
+          "slug":"samsung",
+          "description":"SAMSUNG"
+        },
+        "slug":"televisor-led-43-un43-au7000",
+        "mainCategory":{
+          "id":"41",
+          "name":"TVs",
+          "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/Banners Web/TVs.jpg",
+          "slug":"tvs",
+          "store_pickup":1
+        },
+        "ratings":{
+          "average":0,
+          "reviews":0
+        },
+        "publishedAt":"2021-10-27",
+        "stock":1196.2962962962963,
+        "coupon":null,
+        "variants":[
+          
+        ],
+        "new":false,
+        "availableForPickup":true,
+        "physical":1
+      },
+      {
+        "id":8659,
+        "sku":"15-EF1009LA",
+        "model":"2C3E2LA",
+        "materialGroup":"JT03L110",
+        "name":"Laptop HP 15\"/ AMD RYZEN™ 3/ 4GB RAM/ 256GB SSD/ Gris",
+        "price":{
+          "sale":11995.00002,
+          "regular":16495.000045
+        },
+        "discount":{
+          "amount":3913.0434999999998,
+          "percentage":27,
+          "promoid":"100000010518"
+        },
+        "currency":"HNL",
+        "mainImage":{
+          "full":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/3bfd36124749cde5c990ec2e7e5127e5.webp",
+          "size75":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/3bfd36124749cde5c990ec2e7e5127e5-75x75.webp",
+          "size150":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/3bfd36124749cde5c990ec2e7e5127e5-150x150.webp",
+          "size350":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/3bfd36124749cde5c990ec2e7e5127e5-350x350.webp",
+          "size500":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/3bfd36124749cde5c990ec2e7e5127e5-500x500.webp"
+        },
+        "saleStatus":"AVAILABLE",
+        "categories":[
+          {
+            "id":30,
+            "slug":"computadoras-portatiles",
+            "name":"Laptops",
+            "description":{
+              "category_id":30,
+              "language_id":1,
+              "name":"Laptops",
+              "description":"<h1 class=\"title\">Laptops </h1><p class=\"mb-2\">Es más fácil encontrar una computadora todo terreno con la ayuda de un Laptop Master. En Jetstereo encontrarás <a href=\"/asesores-expertos\">asesoría</a> de este tipo para que encuentres todo lo que necesitas en una laptop o desktop. ¿Estás listo para trabajar a toda velocidad? Disfruta de los mejores gráficos al mejor precio sólo aquí.\r\n</p><h2 class=\"font-large\">Expertos en Computadoras</h2><p class=\"mb-1\">En <a href=\"/pages/quienes-somos\">Jetstereo somos expertos</a> en computadoras. Contamos con laptops para todo lo que necesites ¡Garantizado!<br>\r\n</p><p class=\"mb-1\">No te preocupes si es para diseñar, trabajar, estudiar o simplemente para navegar en redes: tenemos una laptop perfecta para ti.\r\n</p><p class=\"mb-2\">Nuestros asesores podrán ayudarte a encontrar la que vaya acorde con lo que buscas.<br>\r\n</p>",
+              "meta_title":"Computadoras para todos | Jetstereo",
+              "meta_description":"Jetstereo tiene las mejores computadoras a precios increíbles ¡Compruébalo en un clic! Visita nuestro catálogo y compra ahora.",
+              "meta_keyword":"computadoras portatiles, laptops, comprar laptop en honduras,  laptop dell, dell inspiron, laptop hp"
+            },
+            "coverImage":null,
+            "childrenType":"PRODUCT",
+            "position":1,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/laptops.png"
+          }
+        ],
+        "url":"https://www.jetstereo.com/product/laptop-r3-4300u-qc-4gb-256gb-ssd-15-6-15-ef1009la",
+        "brand":{
+          "id":9,
+          "name":"HP",
+          "logo":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/brands/LOGOS-HP.png",
+          "slug":"hp",
+          "description":"HP"
+        },
+        "slug":"laptop-r3-4300u-qc-4gb-256gb-ssd-15-6-15-ef1009la",
+        "mainCategory":{
+          "id":"30",
+          "name":"Laptops",
+          "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/category/laptops.png",
+          "slug":"computadoras-portatiles",
+          "store_pickup":1
+        },
+        "ratings":{
+          "average":0,
+          "reviews":0
+        },
+        "publishedAt":"2022-01-14",
+        "stock":21.3953488372093,
+        "coupon":null,
+        "variants":[
+          
+        ],
+        "new":false,
+        "availableForPickup":true,
+        "physical":1
+      },
+      {
+        "id":5215,
+        "sku":"DJI-OSMO-ACTION",
+        "model":"DJI-OSMO-ACTION",
+        "materialGroup":"JT06C201",
+        "name":"Camara de Video De Accion Osmo DJI",
+        "price":{
+          "sale":9794.999994999998,
+          "regular":13994.999979999999
+        },
+        "discount":{
+          "amount":3652.1739,
+          "percentage":30,
+          "promoid":"100000007402"
+        },
+        "currency":"HNL",
+        "mainImage":{
+          "full":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/CAMARA DE VIDEO DE ACCION OSMO DJI  DJI-OSMO-ACTION 1.webp",
+          "size75":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/CAMARA DE VIDEO DE ACCION OSMO DJI  DJI-OSMO-ACTION 1-75x75.webp",
+          "size150":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/CAMARA DE VIDEO DE ACCION OSMO DJI  DJI-OSMO-ACTION 1-150x150.webp",
+          "size350":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/CAMARA DE VIDEO DE ACCION OSMO DJI  DJI-OSMO-ACTION 1-350x350.webp",
+          "size500":"https://jet-web.s3.us-west-1.amazonaws.com/images/cache/catalog/public/CAMARA DE VIDEO DE ACCION OSMO DJI  DJI-OSMO-ACTION 1-500x500.webp"
+        },
+        "saleStatus":"AVAILABLE",
+        "categories":[
+          {
+            "id":57,
+            "slug":"camaras-fotograficas",
+            "name":"Cámaras Fotográficas",
+            "description":{
+              "category_id":57,
+              "language_id":1,
+              "name":"Cámaras Fotográficas",
+              "description":"¿Estás buscando una cámara fotográfica? Jetstereo te ofrece las mejores marcas a precios accesibles. Toma tus selfies como quieras.",
+              "meta_title":"Si buscas una cámara fotográfica, Jetstereo la tiene para ti",
+              "meta_description":"¿Estás buscando una cámara fotográfica? Jetstereo te ofrece las mejores marcas a precios accesibles. Toma tus selfies como quieras.",
+              "meta_keyword":"Cámaras Fotográficas"
+            },
+            "coverImage":null,
+            "childrenType":"PRODUCT",
+            "position":1000,
+            "productCount":0,
+            "mainImage":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/ecosistemas/camara-fotografica_dic-2019.png"
+          }
+        ],
+        "url":"https://www.jetstereo.com/product/camara-de-video-de-accion-osmo-dji-dji-osmo-action",
+        "brand":{
+          "id":123,
+          "name":"DJI",
+          "logo":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/public/brands/LOGOS-DJI.png",
+          "slug":"dji",
+          "description":"DJI"
+        },
+        "slug":"camara-de-video-de-accion-osmo-dji-dji-osmo-action",
+        "mainCategory":{
+          "id":"57",
+          "name":"Cámaras Fotográficas",
+          "image":"https://jet-web.s3.us-west-1.amazonaws.com/images/catalog/ecosistemas/camara-fotografica_dic-2019.png",
+          "slug":"camaras-fotograficas",
+          "store_pickup":1
+        },
+        "ratings":{
+          "average":0,
+          "reviews":0
+        },
+        "publishedAt":"2020-01-22",
+        "stock":195.65217391304347,
+        "coupon":null,
+        "variants":[
+          
+        ],
+        "new":false,
+        "availableForPickup":true,
+        "physical":1
+      }
+    ],
+    "promo_subtitle":null,
+    "promo_title":null
+  }
+]
