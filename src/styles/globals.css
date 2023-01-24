@@ -2,8 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 :root {
-  --color-primary: #ff5100;
-  --color-secondary: #FF0C00;
+  --merk-color: #50f;
 }
 body {
   padding: 0;

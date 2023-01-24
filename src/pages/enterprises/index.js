@@ -6,11 +6,7 @@ export default function Enterprises() {
     <>
       <Wrapper>
         Hola Empresa
-        <div className=" grid grid-cols-2 gap-2 gap-x-5">
-          <HorizontalGrid image={'/static/images/acc-bg-logo.jpg'} />
-          <HorizontalGrid image={'/static/images/acc-bg-logo.jpg'} />
-          <HorizontalGrid image={'/static/images/acc-bg-logo.jpg'} />
-          <HorizontalGrid image={'/static/images/acc-bg-logo.jpg'} />{' '}
+        <div className="grid gap-y-3">
           <HorizontalGrid image={'/static/images/acc-bg-logo.jpg'} />
           <HorizontalGrid image={'/static/images/acc-bg-logo.jpg'} />
         </div>

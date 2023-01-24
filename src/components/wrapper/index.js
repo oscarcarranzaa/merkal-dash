@@ -7,7 +7,7 @@ export default function Wrapper({ children }) {
       <Navbar />
       <div className="flex">
         <SideMenu />
-        <main className="bg-zinc-100 w-full min-h-screen p-3 md:p-10 pt-32 md:pt-20">
+        <main className="w-full bg-gray-200 min-h-screen p-3 md:p-20 pt-32 md:pt-24">
           {children}
         </main>
       </div>

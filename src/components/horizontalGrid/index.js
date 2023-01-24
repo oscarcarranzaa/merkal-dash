@@ -1,5 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
+import FavoriteActiveSVG from '../icons/favoriteActive'
 
 export default function HorizontalGrid({ image }) {
   return (
@@ -7,8 +8,13 @@ export default function HorizontalGrid({ image }) {
       <div>
         <div>
           <div>
-            <div className="flex p-1 pr-5 rounded-md">
-              <figure className="w-20 rounded-md overflow-hidden">
+            <div className="flex items-center p-2 pl-10 pr-10 rounded-md bg-white">
+              <div className="mr-2">
+                <button>
+                  <FavoriteActiveSVG size={20} color={'#ffc900'} />
+                </button>
+              </div>
+              <figure className="w-14 rounded-full overflow-hidden">
                 <Image
                   src={image}
                   width={200}
@@ -16,16 +22,21 @@ export default function HorizontalGrid({ image }) {
                   layout="responsive"
                 />
               </figure>
-              <div className="flex justify-between w-full">
-                <div>
-                  <h5 className="font-bold">Accmovil HND</h5>
-                  <p className="text-sm line-clamp-2">
-                    Tienda de accesorios móviles y reparaciones con 4 sucursales
-                  </p>
-                </div>
+              <div className="flex justify-between items-center w-full h-full">
+                <Link
+                  href={'/enterprises/[bussinesID]'}
+                  as="/enterprises/ACCHND-GXT6745"
+                >
+                  <a className="font-semibold hover:underline">
+                    Accmovil Honduras
+                  </a>
+                </Link>
                 <div className="flex justify-center items-center">
-                  <Link href={'/enterprises#'}>
-                    <a className="p-1 pl-3 pr-3 border rounded-md text-sm bg-indigo-700 text-white hover:bg-indigo-600">
+                  <Link
+                    href={'/enterprises/[bussinesID]'}
+                    as="/enterprises/ACCHND-GXT6745"
+                  >
+                    <a className="p-1 pl-3 pr-3 border rounded-md text-sm bg-[color:var(--merk-color)] text-white hover:bg-indigo-600">
                       Detalles
                     </a>
                   </Link>
