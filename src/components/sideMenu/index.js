@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import CollapseSVG from '../icons/collapse'
 import CompanySVG from '../icons/company'
 import ExpandSVG from '../icons/expand'
@@ -9,7 +9,16 @@ import PieChartSVG from '../icons/pieChart'
 import styles from './styles.module.css'
 
 export default function SideMenu() {
-  const [open, setOpen] = useState(false)
+  const [open, setOpen] = useState()
+  const toggleMenu = () => {
+    localStorage.setItem('open', !open)
+    setOpen(!open)
+  }
+  useEffect(() => {
+    const lsitem = window.localStorage.getItem('open')
+    lsitem === null || lsitem === 'false' ? setOpen(false) : setOpen(true)
+    console.log(lsitem)
+  }, [open])
   const menuItems = [
     {
       id: 1,
@@ -42,7 +51,7 @@ export default function SideMenu() {
       <div className="bg-slate-50 pt-20">
         <div className="mt-5">
           <button
-            onClick={() => setOpen(!open)}
+            onClick={toggleMenu}
             className="flex bg-slate-100 p-2 pl-4 w-full border-t border-b  border-zinc-200"
           >
             {open && <CollapseSVG size={24} />}
