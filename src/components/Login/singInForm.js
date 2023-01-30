@@ -3,9 +3,13 @@ import { Formik, Form, Field, ErrorMessage } from 'formik'
 import EyeSVG from '../icons/eye'
 import EyeInvisibleSVG from '../icons/eyeInvisible'
 import AccountIcon from '../icons/account'
+import axios from 'axios'
+import Router from 'next/router'
 
 export default function SingInForm() {
   const [showPass, setShowPass] = useState()
+  const [loading, setLoading] = useState(false)
+  const [message, setMessage] = useState('')
 
   const validateEmail = (value) => {
     let error
@@ -33,7 +37,21 @@ export default function SingInForm() {
         pass: ''
       }}
       onSubmit={(values) => {
-        console.log(values)
+        setLoading(true)
+        const { email, pass } = values
+        axios
+          .post('/login', { email, password: pass }, { withCredentials: true })
+          .then((res) => {
+            setLoading(false)
+            Router.push('/')
+            console.log(res.data)
+          })
+          .catch((err) => {
+            const error = err.response.data.response.error
+            setLoading(false)
+            console.log(err)
+            setMessage(error)
+          })
       }}
     >
       {({ errors, touched }) => (
@@ -51,7 +69,7 @@ export default function SingInForm() {
                         <input
                           {...field}
                           type="text"
-                          placeholder="Contraseña"
+                          placeholder="Correo"
                           autoCapitalize="off"
                           autoCorrect="off"
                           autoComplete="off"
@@ -115,6 +133,7 @@ export default function SingInForm() {
               </div>
             </div>
           </div>
+          <span>{message}</span>
           <button
             className="w-full bg-black text-white p-2 font-semibold rounded mt-10 hover:bg-black"
             type="submit"

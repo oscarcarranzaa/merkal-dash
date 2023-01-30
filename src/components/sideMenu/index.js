@@ -45,7 +45,7 @@ export default function SideMenu() {
       icon: <MessageSVG size={24} />
     }
   ]
-  console.log(open)
+
   return (
     <>
       <div className="bg-slate-50 pt-20">
