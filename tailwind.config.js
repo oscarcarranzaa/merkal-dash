@@ -33,7 +33,11 @@ module.exports = {
         boxShadow: ['active']
       }
     },
-    extend: {}
+    extend: {
+      colors: {
+        'primary-color': 'var(--merk-color)'
+      }
+    }
   },
   plugins: [require('@tailwindcss/line-clamp')]
 }

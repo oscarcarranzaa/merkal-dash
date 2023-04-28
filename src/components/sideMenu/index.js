@@ -1,51 +1,31 @@
 import Link from 'next/link'
-import { useEffect, useState } from 'react'
 import CollapseSVG from '../icons/collapse'
-import CompanySVG from '../icons/company'
 import ExpandSVG from '../icons/expand'
-import HomeSVG from '../icons/home'
-import MessageSVG from '../icons/message'
-import PieChartSVG from '../icons/pieChart'
 import styles from './styles.module.css'
+import menuItems from './menuItems'
+import { sideBar } from '../../redux/states/openSideMenu'
+import { useSelector, useDispatch } from 'react-redux'
+import Priority from './priority'
+import { gql, useQuery } from '@apollo/client'
+
+const PRIORITY_ENTERPRISE = gql`
+  query {
+    enterprise {
+      name
+      username
+    }
+  }
+`
 
 export default function SideMenu() {
-  const [open, setOpen] = useState()
-  const toggleMenu = () => {
-    localStorage.setItem('open', !open)
-    setOpen(!open)
-  }
-  useEffect(() => {
-    const lsitem = window.localStorage.getItem('open')
-    lsitem === null || lsitem === 'false' ? setOpen(false) : setOpen(true)
-    console.log(lsitem)
-  }, [open])
-  const menuItems = [
-    {
-      id: 1,
-      name: 'Inicio',
-      url: '/',
-      icon: <HomeSVG size={24} />
-    },
-    {
-      id: 2,
-      name: 'Empresas',
-      url: '/enterprises',
-      icon: <CompanySVG size={24} />
-    },
-    {
-      id: 3,
-      name: 'Analítica',
-      url: '/analytics',
-      icon: <PieChartSVG size={24} />
-    },
-    {
-      id: 4,
-      name: 'Reportes',
-      url: 'reports',
-      icon: <MessageSVG size={24} />
-    }
-  ]
+  const { data, loading, error } = useQuery(PRIORITY_ENTERPRISE)
+  console.log(data)
 
+  const dispatch = useDispatch()
+  const open = useSelector((store) => store.openSideBar)
+  const toggleMenu = () => {
+    dispatch(sideBar(!open))
+  }
   return (
     <>
       <div className="bg-slate-50 pt-20">
@@ -94,6 +74,7 @@ export default function SideMenu() {
                 })}
               </ul>
             </nav>
+            {data ? <Priority enterprises={data.enterprise}></Priority> : null}
           </div>
         </div>
       </div>

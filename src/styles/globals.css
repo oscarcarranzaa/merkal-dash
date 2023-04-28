@@ -4,6 +4,9 @@
 :root {
   --merk-color: #50f;
 }
+html{
+  min-width: 800px;
+}
 body {
   padding: 0;
   margin: 0;
@@ -21,6 +24,9 @@ a {
 }
 input{
   outline: none;
+}
+.border-merk{
+  border-color: var(--merk-color);
 }
 .icon{
   fill: #222;

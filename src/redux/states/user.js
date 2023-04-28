@@ -1,8 +1,15 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 export const userEmpty = {
-  user: '',
-  email: ''
+  merkUserId: '',
+  firtName: '',
+  lastName: '',
+  email: '',
+  photo: [
+    {
+      url: ''
+    }
+  ]
 }
 
 export const userSlice = createSlice({

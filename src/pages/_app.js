@@ -1,14 +1,29 @@
 import '../styles/globals.css'
 import axios from 'axios'
 import { Provider } from 'react-redux'
-import userInformation from 'redux/store'
+import reduxStore from 'redux/store'
+import {
+  ApolloClient,
+  HttpLink,
+  InMemoryCache,
+  ApolloProvider
+} from '@apollo/client'
+
+const client = new ApolloClient({
+  cache: new InMemoryCache(),
+  link: new HttpLink({
+    uri: 'http://localhost:4000/gql'
+  })
+})
 
 axios.defaults.baseURL = 'http://localhost:4000/api/v1'
 function MyApp({ Component, pageProps }) {
   return (
-    <Provider store={userInformation}>
-      <Component {...pageProps} />
-    </Provider>
+    <ApolloProvider client={client}>
+      <Provider store={reduxStore}>
+        <Component {...pageProps} />
+      </Provider>
+    </ApolloProvider>
   )
 }
 
