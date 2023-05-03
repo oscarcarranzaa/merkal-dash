@@ -1,22 +1,20 @@
 import Image from 'next/image'
 
-export default function CardEnterprises({ name, image, id }) {
+export default function CardEnterprises({ name, username, image }) {
   return (
     <>
-      <div className="">
-        <div className="flex items-center">
-          <div className="aspect-video h-32 flex justify-center">
-            <div className="rounded-full overflow-hidden w-32 h-32">
-              <Image width={180} height={180} src={image} />
-            </div>
-          </div>
-          <div className="ml-3 max-w-lg">
-            <p className="font-semibold text-xl">{name}</p>
-            <p className="line-clamp-2 text-sm">
-              Somos una empresa dedicada al rubro ventas de accesorios moviles,
-              con nuestra sucursal en Tegucigalpa, Honduras.
-            </p>
-          </div>
+      <div className="full overflow-hidden">
+        <div className="w-full overflow-hidden rounded-md">
+          <Image src={image} layout="responsive" width={180} height={180} />
+        </div>
+        <div>
+          <h5 className="text-lg font-semibold line-clamp-1">{name}</h5>
+        </div>
+        <div className="flex ">
+          <p className="text-sm font-medium mr-5 max-w-[250px] overflow-hidden">
+            {username}
+          </p>
+          <p className="text-sm font-medium text-green-600">Activo</p>
         </div>
       </div>
     </>

@@ -1,5 +1,4 @@
-import AlertEnterprise from '@/components/cardEnterprises/alertEnterprise'
-import CardEnterprises from 'components/cardEnterprises'
+import CardEnterprises from '@/components/cardEnterprises'
 import Wrapper from '../../components/wrapper'
 
 export default function Enterprises() {
@@ -10,17 +9,32 @@ export default function Enterprises() {
           <h1 className="text-5xl font-semibold">Empresas</h1>
         </div>
         <section>
-          <div className="grid grid-cols-8 gap-x-10">
-            <div className="grid gap-y-10 col-span-5">
-              <CardEnterprises
-                name={'ACCMOVIL HONDURAS'}
-                image={'/bussines-image.jpg'}
-              />
-              <CardEnterprises name={'ACOSA CHOLUTECA'} image={'/acosa.jpg'} />
-            </div>
-            <div className="col-span-3">
-              <AlertEnterprise />
-            </div>
+          <div className="grid grid-cols-2 md:grid-cols-3 gap-5 lg:grid-cols-5">
+            <CardEnterprises
+              name={'Acosa Honduras'}
+              username={'@acosahn'}
+              image={'/acosa.jpg'}
+            />
+            <CardEnterprises
+              name={'Accmovil'}
+              username={'@accmovil'}
+              image={'/acc.jpg'}
+            />
+            <CardEnterprises
+              name={'Promaco'}
+              username={'@promaco'}
+              image={'/promaco.jpg'}
+            />
+            <CardEnterprises
+              name={'Lady Lee'}
+              username={'@ladylee'}
+              image={'/ladylee.jpg'}
+            />
+            <CardEnterprises
+              name={'La curacao HN'}
+              username={'@lacuracao'}
+              image={'/lacuracao.jpg'}
+            />
           </div>
         </section>
       </Wrapper>
